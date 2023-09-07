@@ -51,17 +51,17 @@ You can use `main.py` to test your functions. Click the "run" button in Replit, 
 
 ### Testing
 
-We've imported tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
+Tests from `test_module.py` are imported to `main.py`. The tests will run automatically whenever you hit the "run" button.
 
 ## Screenshots
 
-- Example Line Chart:
+- Line Chart - Matplotlib:
   ![Line Chart](line_plot.png)
 
-- Example Bar Chart:
+- Bar Chart - Matplotlib:
   ![Bar Chart](bar_plot.png)
 
-- Example Box Plots:
+- Box Plot - Seaborn :
   ![Box Plots](box_plot.png)
 ## Data Source
 
@@ -70,8 +70,10 @@ The dataset is provided in the "fcc-forum-pageviews.csv" file.
 ## Project Structure
 
 - `main.py`: Main script to execute data visualization functions.
+- `test_module.py`: Unit tests are written for you under .
+- `time_series_visualizer.py: Given tasks are solved here with the help of pandas, matplotlib and seaborn.
 - `fcc-forum-pageviews.csv`: Dataset containing time series data.
-- `README.md`: Project documentation (you are here).
+- `README.md`: Project documentation.
 
 ## Contributing
 
