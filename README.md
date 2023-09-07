@@ -56,13 +56,13 @@ We've imported tests from `test_module.py` to `main.py` for your convenience. Th
 ## Screenshots
 
 - Example Line Chart:
-  ![Line Chart](examples/Figure_1.png)
+  ![Line Chart](line_plot.png)
 
 - Example Bar Chart:
-  ![Bar Chart](examples/Figure_2.png)
+  ![Bar Chart](bar_plot.png)
 
 - Example Box Plots:
-  ![Box Plots](examples/Figure_3.png)
+  ![Box Plots](box_plot.png)
 ## Data Source
 
 The dataset is provided in the "fcc-forum-pageviews.csv" file.
