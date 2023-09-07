@@ -71,7 +71,7 @@ The dataset is provided in the "fcc-forum-pageviews.csv" file.
 
 - `main.py`: Main script to execute data visualization functions.
 - `test_module.py`: Unit tests are written for you under .
-- `time_series_visualizer.py: Given tasks are solved here with the help of pandas, matplotlib and seaborn.
+- `time_series_visualizer.py`: Given tasks are solved here with the help of pandas, matplotlib and seaborn.
 - `fcc-forum-pageviews.csv`: Dataset containing time series data.
 - `README.md`: Project documentation.
 
