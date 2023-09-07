@@ -1,6 +1,13 @@
 # Page-View-Time-Series-Visualizer-Python
 This project involves visualizing time series data using various charts and libraries like Pandas, Matplotlib, and Seaborn. You will be working with a dataset containing the number of daily page views on the freeCodeCamp.org forum from May 9, 2016, to December 3, 2019. The visualizations will help you identify patterns, trends, and growth on a yearly and monthly basis.
 
+## Getting Started
+
+To start working on this project, follow these steps:
+
+1. Import the project on [Replit](https://replit.com/).
+2. In the Replit environment, you will see a `.replit` window. Select "Use run command" and click the "Done" button.
+
 ## Tasks
 
 1. **Data Import and Cleaning**:
@@ -38,7 +45,24 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory: `cd time-series-data-visualization`
 3. Install the required libraries if not already installed: `pip install pandas matplotlib seaborn`
 4. Run the Python script: `python main.py`
+### Development
 
+You can use `main.py` to test your functions. Click the "run" button in Replit, and `main.py` will run.
+
+### Testing
+
+We've imported tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
+
+## Screenshots
+
+- Example Line Chart:
+  ![Line Chart](examples/Figure_1.png)
+
+- Example Bar Chart:
+  ![Bar Chart](examples/Figure_2.png)
+
+- Example Box Plots:
+  ![Box Plots](examples/Figure_3.png)
 ## Data Source
 
 The dataset is provided in the "fcc-forum-pageviews.csv" file.
